@@ -6,3 +6,8 @@ body {
 #razdelek {
     background-color: aqua;
 }
+
+h1, h2 {
+    font-size: 25px;
+    color: yellow;
+}
